@@ -7,6 +7,10 @@
     https://colab.research.google.com/drive/1dGWFOPbg9n4JqD4Wij2KobRHw0X9LEmM?usp=sharing#scrollTo=_FWZkHbNonhs
 
 -->The datasets used for the disease prediction were taken from the KAGGLE website(attached):
-  1. 
+  1. dataset.csv
+  2. symptom_Description.csv
+  3. symptom_precaution.csv
+
 
 PS: This is my original code of desicion trees and I have not used any library for this.
+    Also, please change the paths of the datasets in the main python code, befor running the app.
