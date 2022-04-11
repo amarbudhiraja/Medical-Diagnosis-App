@@ -1,0 +1,9 @@
+--> The python code (with necessary comments) for the data cleaning and the disease prediction is in the google colab notebook.
+	link: 
+	https://colab.research.google.com/drive/1dGWFOPbg9n4JqD4Wij2KobRHw0X9LEmM?usp=sharing
+--> I have first done the data cleaning, which will produce a dataframe, having diseases and their symptoms in the form of 1s and 0s, 
+	where, 1 representing that the particular symptom is present in that particular disease and 0 representing the opposite.
+--> Then, I have made a decision tree(using the concepts of information gain and entropy) for the whole dataset, interactively, i.e., 
+	the decision tree gets updated after every query from the user.
+-->Then, I have made a PYWEBIO application using the same python code in my local machine(code is in main.py).
+-->I have also attached a working example screenshot of the app.
